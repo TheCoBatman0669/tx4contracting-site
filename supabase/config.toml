@@ -1,0 +1,5 @@
+# Supabase CLI config for the tx4-contracting project.
+project_id = "jhcyijhcdjgnrcurpyzn"
+
+[functions.submit-inquiry]
+verify_jwt = true
